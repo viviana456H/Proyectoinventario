@@ -6,6 +6,7 @@
             <name>Proyectoinventario</name>
             <source-roots>
                 <root id="src.dir"/>
+                <root id="src.nbproject.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
